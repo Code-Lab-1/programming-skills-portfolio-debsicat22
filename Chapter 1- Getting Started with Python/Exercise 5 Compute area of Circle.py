@@ -1,4 +1,3 @@
-# Program to calculate the area of a circle
 
 # Importing the math module to access the value of pi
 import math

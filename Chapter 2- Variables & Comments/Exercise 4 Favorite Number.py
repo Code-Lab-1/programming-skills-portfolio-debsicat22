@@ -1,4 +1,3 @@
-# Program to print a message revealing a favorite number
 
 # Defining a variable for the favorite number
 favorite_number = 22

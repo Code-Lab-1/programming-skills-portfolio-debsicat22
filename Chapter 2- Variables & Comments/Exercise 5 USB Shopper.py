@@ -1,4 +1,3 @@
-# Program to calculate the number of USB sticks that can be purchased for a given amount of money
 
 # Defining the cost of each USB stick
 cost_per_stick = 6

@@ -1,4 +1,3 @@
-# Program to combine three strings into one
 
 # Defining three separate strings
 string1 = "Hello"

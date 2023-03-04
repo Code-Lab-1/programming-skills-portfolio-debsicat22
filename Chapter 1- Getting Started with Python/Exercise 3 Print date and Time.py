@@ -1,4 +1,3 @@
-# Program to display the current date and time
 
 # Importing the datetime module to access the date and time information
 import datetime

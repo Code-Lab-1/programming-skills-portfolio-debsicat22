@@ -1,4 +1,3 @@
-# Program to demonstrate stripping of whitespaces
 
 # Defining a string variable with whitespaces at the beginning and end
 name = "\t\n   Leonardo DiCaprio   \n\t"
